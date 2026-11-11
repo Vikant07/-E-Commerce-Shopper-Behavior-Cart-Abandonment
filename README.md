@@ -111,8 +111,6 @@ These are hypotheses and proposed investigations, not proven causes or measured 
 
 ## Author
 
-Data Analytics Portfolio Project
+Vikant
 
----
-
-*This project is intended for educational and portfolio demonstration. All conclusions should be interpreted within the synthetic-data and field-level limitations described above.*
+ 
