@@ -17,15 +17,36 @@ E-commerce businesses need to understand how shoppers behave and which customer 
 5. How are monthly spend and average order value distributed across abandonment groups?
 6. What business actions could be investigated based on the observed patterns?
 
-## Dataset
+# Dataset
 
-- **Dataset:** E-Commerce Shopper Behavior & Lifestyle (Amazon/Shopify based)
+The original dataset is hosted on Kaggle.
+
+**Dataset:** E-Commerce Shopper Behavior & Lifestyle
+
+**Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/dhrubangtalukdar/e-commerce-shopper-behavior-amazonshopify-based)
+
+**File:** e_commerce_shopper_behaviour_and_lifestyle.csv
+
+**Size:** Approximately 233.60 MB
+
+## Instructions
+1. Open the Kaggle dataset link.
+2. Download the CSV file.
+3. Extract the file if required.
+4. Place it in the project's `data/` folder.
+5. Run the Python notebook using the downloaded CSV.
+
+ 
 - **Records:** Approximately 1,000,000 synthetic shopper profiles
-- **Source format:** CSV
+ 
 - **Nature:** 100% synthetic data, as described by the dataset publisher
 - **Granularity:** One row per shopper profile
 
 The dataset includes demographic, lifestyle, financial, shopping-habit and platform-engagement attributes.
+
+The raw dataset is not stored in this GitHub repository because it exceeds GitHub's standard 100 MB file limit.
+
+
 
 ## Tools & Technologies
 
